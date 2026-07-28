@@ -7,15 +7,15 @@ Users input the stocks they own and how many shares of each. The program calcula
 
 ## Features
 Hardcoded dictionary of stock prices
- -User input for stock symbol and quantity
- -Calculates total investment value
- -Optional file export (.txt report)
+ User input for stock symbol and quantity
+ Calculates total investment value
+ Optional file export (.txt report)
 
 ## Concepts Used
- -Dictionaries
- -Input/output handling
- -Basic arithmetic
- -File handling (optional)
+ Dictionaries
+ Input/output handling
+ Basic arithmetic
+ File handling (optional)
 
 ## How to Run
 ```bash
